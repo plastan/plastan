@@ -2,7 +2,7 @@ import websockets
 import asyncio
 
 port = 7890
-ip = "103.161.55.48"
+ip = "172.19.2.66"
 print(f"server listening to {port}")
 
 
